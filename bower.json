@@ -1,0 +1,17 @@
+{
+  "name": "theperfectpolicy",
+  "version": "0.1.0",
+  "authors": [
+      "Web Machine <info@webmachine.io>"
+  ],
+  "description": "The perfect policy",
+  "main": "_site/index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+      "jquery": "~2.1.4",
+      "bootstrap-sass": "~3.3.5"
+  }
+}

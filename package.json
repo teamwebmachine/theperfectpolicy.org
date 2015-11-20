@@ -1,0 +1,21 @@
+{
+  "name": "theperfectpolicy",
+  "version": "0.1.0",
+  "description": "The Perfect Policy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teamwebmachine/theperfectpolicy.org.git"
+  },
+  "author": "Web Machine",
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "^1.3.12"
+  },
+  "engines": {
+    "node": ">= 0.12.0",
+    "npm": ">=2.1.5"
+  }
+}
